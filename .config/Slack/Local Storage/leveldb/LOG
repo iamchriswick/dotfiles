@@ -1,0 +1,6 @@
+2021/03/23-12:03:29.700 96ec Reusing MANIFEST /home/iamchriswick/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2021/03/23-12:03:29.700 96ec Recovering log #6
+2021/03/23-12:03:29.701 96ec Reusing old log /home/iamchriswick/.config/Slack/Local Storage/leveldb/000006.log 
+2021/03/23-13:30:30.686 e275 Level-0 table #10: started
+2021/03/23-13:30:30.692 e275 Level-0 table #10: 9705 bytes OK
+2021/03/23-13:30:30.694 e275 Delete type=0 #6

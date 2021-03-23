@@ -1,0 +1,15 @@
+2021/03/22-12:22:29.942 1139c Reusing MANIFEST /home/iamchriswick/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/22-12:22:29.942 1139c Recovering log #4
+2021/03/22-12:22:29.942 1139c Reusing old log /home/iamchriswick/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000004.log 
+2021/03/22-13:04:16.929 12c1f Level-0 table #8: started
+2021/03/22-13:04:16.930 12c1f Level-0 table #8: 55772 bytes OK
+2021/03/22-13:04:16.932 12c1f Delete type=0 #4
+2021/03/22-13:04:16.932 12c1f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/22-13:04:16.932 12c1f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x03\x01'\x00f\x003\x00a\x001\x003\x005\x008\x009\x00a\x005\x00d\x00a\x007\x000\x00d\x007\x009\x00b\x002\x00a\x00e\x00d\x008\x00d\x006\x00f\x007\x000\x00c\x004\x007\x009\x00_\x003\x00_\x001\x00:\x000\x000' @ 1248 : 0
+2021/03/22-13:04:16.932 12c1f Compacting 1@1 + 1@2 files
+2021/03/22-13:04:16.933 12c1f Generated table #9@1: 72 keys, 13982 bytes
+2021/03/22-13:04:16.933 12c1f Compacted 1@1 + 1@2 files => 13982 bytes
+2021/03/22-13:04:16.935 12c1f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/22-13:04:16.935 12c1f Delete type=2 #5
+2021/03/22-13:04:16.935 12c1f Delete type=2 #8
+2021/03/22-13:04:16.935 12c1f Manual compaction at level-1 from '\x00\x01\x03\x03\x01'\x00f\x003\x00a\x001\x003\x005\x008\x009\x00a\x005\x00d\x00a\x007\x000\x00d\x007\x009\x00b\x002\x00a\x00e\x00d\x008\x00d\x006\x00f\x007\x000\x00c\x004\x007\x009\x00_\x003\x00_\x001\x00:\x000\x000' @ 1248 : 0 .. (end); will stop at (end)

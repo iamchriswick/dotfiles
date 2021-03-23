@@ -1,0 +1,85 @@
+{
+  "app_name": "Poodle",
+  "app_title": "Twinmotion 2019 (Epic version)",
+  "app_version": "RELEASE_WINDOWS_2019.6.6618",
+  "asset_info": {
+    "app_name": "Poodle",
+    "asset_id": "Poodle",
+    "build_version": "RELEASE_WINDOWS_2019.6.6618",
+    "catalog_item_id": "7b443be3671842eeb181cc61facfe301",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "poodle"
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-03-22T22:57:55.943Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Twinmotion"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceID": {
+        "type": "STRING",
+        "value": "Twinmotion"
+      },
+      "SupportedPlatforms": {
+        "type": "STRING",
+        "value": "Windows, Mac"
+      },
+      "com.epicgames.app.developerName": {
+        "type": "STRING",
+        "value": "Epic Games"
+      }
+    },
+    "description": "Twinmotion 2019 (Epic version)",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "7b443be3671842eeb181cc61facfe301",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "twin"
+    ],
+    "id": "7b443be3671842eeb181cc61facfe301",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2020-06-01T11:18:50.055Z",
+    "namespace": "poodle",
+    "releaseInfo": [
+      {
+        "appId": "Poodle",
+        "compatibleApps": [],
+        "dateAdded": "2019-03-22T00:00:00.000Z",
+        "id": "1239e5fb6742493a850b9e10377718a8",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Twinmotion 2019 (Epic version)",
+    "unsearchable": false
+  }
+}

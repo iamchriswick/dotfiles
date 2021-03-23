@@ -1,0 +1,5 @@
+2021/03/22-11:57:35.788 112a8 Reusing MANIFEST /home/iamchriswick/.config/google-chrome/Default/IndexedDB/https_www.sejda.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/22-12:56:59.790 127f2 Level-0 table #5: started
+2021/03/22-12:56:59.792 127f2 Level-0 table #5: 1322 bytes OK
+2021/03/22-12:56:59.794 127f2 Delete type=0 #3
+2021/03/22-12:56:59.794 127f2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2021/03/22-08:23:26.738 5092 Reusing MANIFEST /home/iamchriswick/.config/google-chrome/Profile 1/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/22-08:23:31.224 533c Level-0 table #5: started
+2021/03/22-08:23:31.231 533c Level-0 table #5: 1298 bytes OK
+2021/03/22-08:23:31.233 533c Delete type=0 #3
+2021/03/22-08:23:31.233 533c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

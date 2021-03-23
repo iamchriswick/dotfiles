@@ -1,0 +1,27 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "icon.png"
+   },
+   "content_scripts": [ {
+      "css": [ "css/styles.css" ],
+      "js": [ "content.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Scout talent directly from social media to Homerun.",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyhDtfYrjfgSDE+4ADdia+kQi4OQCdVY/sfDgtruuYEDXXADNwQyXYIroCBeqdeWHToHSpaGaASngmWWd0mm7OjrPkfTT7hhvEMV1Mx78nTkJPM0pF6Rvi6Qm8M7yGrIFawZdJtO9iSIaPzsW8Zeggew4rprOOwlcbCSOqtrNdXalrUpe/UtQ+aReuykH8NbHoFoAUXGWf4Pz9C2ZosdttP61RQ00BsVkIhA9cArTxQmAq6HI77tNO/iaNWAzO+149bpd8Krk56+1EiLYi4fmwglEislPqoiYxSiouDdsFbVtJxRVwXsQzMScfOAxATmm4ewzA28Xs8jptl+r7fK0VwIDAQAB",
+   "manifest_version": 2,
+   "name": "Homerun Talent Clipper",
+   "permissions": [ "activeTab", "https://talentclipper.homerun.co/" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.0",
+   "web_accessible_resources": [ "button.png", "hr-logo.png" ]
+}

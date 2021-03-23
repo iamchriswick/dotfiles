@@ -1,0 +1,5 @@
+2021/03/22-22:36:29.290 19e5a Reusing MANIFEST /home/iamchriswick/.config/google-chrome/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/22-22:41:46.180 19e5a Level-0 table #5: started
+2021/03/22-22:41:46.187 19e5a Level-0 table #5: 1256 bytes OK
+2021/03/22-22:41:46.188 19e5a Delete type=0 #3
+2021/03/22-22:41:46.188 19e5a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

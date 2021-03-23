@@ -1,0 +1,8 @@
+2021/03/23-13:04:46.946 c71f Reusing MANIFEST /home/iamchriswick/.config/google-chrome/Profile 1/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/23-13:04:46.946 c71f Recovering log #4
+2021/03/23-13:04:46.946 c71f Reusing old log /home/iamchriswick/.config/google-chrome/Profile 1/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/000004.log 
+2021/03/23-13:04:51.909 c720 Level-0 table #8: started
+2021/03/23-13:04:51.909 c720 Level-0 table #8: 0 bytes OK
+2021/03/23-13:04:51.919 c720 Delete type=0 #4
+2021/03/23-13:04:51.919 c720 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/23-13:04:51.919 c720 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

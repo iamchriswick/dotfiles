@@ -1,0 +1,15 @@
+2021/03/23-12:05:40.351 988b Reusing MANIFEST /home/iamchriswick/.config/google-chrome/Default/IndexedDB/https_borsen.dagbladet.no_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/23-12:05:40.351 988b Recovering log #7
+2021/03/23-12:05:40.351 988b Reusing old log /home/iamchriswick/.config/google-chrome/Default/IndexedDB/https_borsen.dagbladet.no_0.indexeddb.leveldb/000007.log 
+2021/03/23-12:09:10.011 9ab3 Level-0 table #11: started
+2021/03/23-12:09:10.012 9ab3 Level-0 table #11: 5813 bytes OK
+2021/03/23-12:09:10.014 9ab3 Delete type=0 #7
+2021/03/23-12:09:10.014 9ab3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/23-12:09:10.014 9ab3 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x03\x00\xc0\xd78\xec\x85wB\x00\x01Y\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00b\x00o\x00r\x00s\x00e\x00n\x00.\x00d\x00a\x00g\x00b\x00l\x00a\x00d\x00e\x00t\x00.\x00n\x00o\x00/\x00a\x00p\x00p\x00/\x00a\x00g\x00e\x00n\x00d\x00a\x002\x00/\x00_\x00n\x00e\x00x\x00t\x00/\x00s\x00t\x00a\x00t\x00i\x00c\x00/\x00r\x00u\x00n\x00t\x00i\x00m\x00e\x00/\x00m\x00a\x00i\x00n\x00-\x003\x00a\x006\x00e\x00b\x008\x008\x000\x008\x007\x00e\x009\x009\x008\x001\x007\x001\x001\x007\x007\x00.\x00j\x00s' @ 226 : 1
+2021/03/23-12:09:10.014 9ab3 Compacting 1@1 + 1@2 files
+2021/03/23-12:09:10.016 9ab3 Generated table #12@1: 62 keys, 3453 bytes
+2021/03/23-12:09:10.016 9ab3 Compacted 1@1 + 1@2 files => 3453 bytes
+2021/03/23-12:09:10.017 9ab3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/23-12:09:10.017 9ab3 Delete type=2 #5
+2021/03/23-12:09:10.017 9ab3 Delete type=2 #11
+2021/03/23-12:09:10.018 9ab3 Manual compaction at level-1 from '\x00\x02\x01\x1f\x03\x00\xc0\xd78\xec\x85wB\x00\x01Y\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00b\x00o\x00r\x00s\x00e\x00n\x00.\x00d\x00a\x00g\x00b\x00l\x00a\x00d\x00e\x00t\x00.\x00n\x00o\x00/\x00a\x00p\x00p\x00/\x00a\x00g\x00e\x00n\x00d\x00a\x002\x00/\x00_\x00n\x00e\x00x\x00t\x00/\x00s\x00t\x00a\x00t\x00i\x00c\x00/\x00r\x00u\x00n\x00t\x00i\x00m\x00e\x00/\x00m\x00a\x00i\x00n\x00-\x003\x00a\x006\x00e\x00b\x008\x008\x000\x008\x007\x00e\x009\x009\x008\x001\x007\x001\x001\x007\x007\x00.\x00j\x00s' @ 226 : 1 .. (end); will stop at (end)

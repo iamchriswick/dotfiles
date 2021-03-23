@@ -1,0 +1,21 @@
+2021/03/22-08:20:21.947 5092 Reusing MANIFEST /home/iamchriswick/.config/google-chrome/Profile 1/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2021/03/22-08:20:21.947 5092 Recovering log #10
+2021/03/22-08:20:21.952 5092 Reusing old log /home/iamchriswick/.config/google-chrome/Profile 1/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000010.log 
+2021/03/22-08:28:24.396 533c Level-0 table #14: started
+2021/03/22-08:28:24.419 533c Level-0 table #14: 2711616 bytes OK
+2021/03/22-08:28:24.421 533c Delete type=0 #10
+2021/03/22-08:32:22.760 5611 Level-0 table #16: started
+2021/03/22-08:32:22.782 5611 Level-0 table #16: 2820092 bytes OK
+2021/03/22-08:32:22.784 5611 Delete type=0 #13
+2021/03/22-08:32:22.785 5611 Compacting 4@0 + 1@1 files
+2021/03/22-08:32:22.811 5611 Generated table #17@0: 17 keys, 2744088 bytes
+2021/03/22-08:32:22.829 5611 Generated table #18@0: 6 keys, 2159213 bytes
+2021/03/22-08:32:22.847 5611 Generated table #19@0: 8 keys, 2351886 bytes
+2021/03/22-08:32:22.849 5611 Generated table #20@0: 4 keys, 131724 bytes
+2021/03/22-08:32:22.849 5611 Compacted 4@0 + 1@1 files => 7386911 bytes
+2021/03/22-08:32:22.851 5611 compacted to: files[ 0 4 1 0 0 0 0 ]
+2021/03/22-08:32:22.851 5611 Delete type=2 #7
+2021/03/22-08:32:22.851 5611 Delete type=2 #9
+2021/03/22-08:32:22.851 5611 Delete type=2 #11
+2021/03/22-08:32:22.851 5611 Delete type=2 #14
+2021/03/22-08:32:22.851 5611 Delete type=2 #16

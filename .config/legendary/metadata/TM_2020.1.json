@@ -1,0 +1,84 @@
+{
+  "app_name": "TM_2020.1",
+  "app_title": "Twinmotion 2020.1",
+  "app_version": "RELEASE_WINDOWS_2020.1.13672003",
+  "asset_info": {
+    "app_name": "TM_2020.1",
+    "asset_id": "TM",
+    "build_version": "RELEASE_WINDOWS_2020.1.13672003",
+    "catalog_item_id": "db2ac028dc1844f0a6ef62f9c5daee42",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "poodle"
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-01-14T10:00:59.352Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Twinmotion2020.1"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceID": {
+        "type": "STRING",
+        "value": "Twinmotion"
+      },
+      "SupportedPlatforms": {
+        "type": "STRING",
+        "value": "Windows, Mac"
+      },
+      "com.epicgames.app.developerName": {
+        "type": "STRING",
+        "value": "Epic Games"
+      }
+    },
+    "description": "Twinmotion 2020.1 License",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "Twinmotion2020.1",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "twin"
+    ],
+    "id": "db2ac028dc1844f0a6ef62f9c5daee42",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2020-11-05T14:33:14.791Z",
+    "namespace": "poodle",
+    "releaseInfo": [
+      {
+        "appId": "TM_2020.1",
+        "compatibleApps": [],
+        "dateAdded": "2020-01-17T00:00:00.000Z",
+        "id": "a74f98c9c7c24ce3a1ad861c847b8445",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Twinmotion 2020.1",
+    "unsearchable": false
+  }
+}

@@ -1,0 +1,30 @@
+2021/03/23-00:28:17.417 3c38 Reusing MANIFEST /home/iamchriswick/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/23-00:28:17.417 3c38 Recovering log #14
+2021/03/23-00:28:17.425 3c38 Reusing old log /home/iamchriswick/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000014.log 
+2021/03/23-10:29:50.498 8b84 Level-0 table #19: started
+2021/03/23-10:29:50.507 8b84 Level-0 table #19: 1131878 bytes OK
+2021/03/23-10:29:50.510 8b84 Delete type=0 #14
+2021/03/23-12:10:33.795 98ce Compacting 1@1 + 1@2 files
+2021/03/23-12:10:33.798 98ce Generated table #20@1: 218 keys, 10476 bytes
+2021/03/23-12:10:33.798 98ce Compacted 1@1 + 1@2 files => 10476 bytes
+2021/03/23-12:10:33.800 98ce compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/23-12:10:33.800 98ce Delete type=2 #16
+2021/03/23-12:10:33.800 98ce Delete type=2 #19
+2021/03/23-12:27:01.508 9eaf Level-0 table #22: started
+2021/03/23-12:27:01.516 9eaf Level-0 table #22: 1154446 bytes OK
+2021/03/23-12:27:01.519 9eaf Delete type=0 #18
+2021/03/23-12:27:20.501 a7f3 Compacting 1@1 + 1@2 files
+2021/03/23-12:27:20.506 a7f3 Generated table #23@1: 186 keys, 21195 bytes
+2021/03/23-12:27:20.506 a7f3 Compacted 1@1 + 1@2 files => 21195 bytes
+2021/03/23-12:27:20.508 a7f3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/23-12:27:20.508 a7f3 Delete type=2 #20
+2021/03/23-12:27:20.508 a7f3 Delete type=2 #22
+2021/03/23-13:10:57.677 c71f Level-0 table #25: started
+2021/03/23-13:10:57.688 c71f Level-0 table #25: 1314209 bytes OK
+2021/03/23-13:10:57.690 c71f Delete type=0 #21
+2021/03/23-13:12:22.519 c8bc Compacting 1@1 + 1@2 files
+2021/03/23-13:12:22.523 c8bc Generated table #26@1: 251 keys, 19667 bytes
+2021/03/23-13:12:22.523 c8bc Compacted 1@1 + 1@2 files => 19667 bytes
+2021/03/23-13:12:22.525 c8bc compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/23-13:12:22.525 c8bc Delete type=2 #23
+2021/03/23-13:12:22.525 c8bc Delete type=2 #25

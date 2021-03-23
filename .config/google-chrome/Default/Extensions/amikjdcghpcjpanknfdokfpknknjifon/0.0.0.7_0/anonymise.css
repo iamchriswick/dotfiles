@@ -1,0 +1,17 @@
+/* Hide profile images */
+.profile-picture img, .profile-picture a, img.lazy-load, .profile-img, .profile-image, #topcard img, .profile-image img, .result > a.result-image, .result > a img.entity-img, .browse-map-photo, .endorsement-picture img, .connections-container img, .recommendation > div > div.entityblock.person > img {
+	visibility:hidden;
+}
+
+/* Hide name on /in pages */
+.full-name {
+	visibility:hidden;
+}
+/* Hide identity in 'in common' section by hiding section */
+#in-common {
+	visibility:hidden;
+}
+
+#topcard .module-body .info-container h1 {
+	visibility:hidden;
+}

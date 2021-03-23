@@ -1,0 +1,8 @@
+2021/03/20-21:48:41.678 22fdd Reusing MANIFEST /home/iamchriswick/.config/google-chrome/Default/IndexedDB/https_borsen.dagbladet.no_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/20-21:48:41.678 22fdd Recovering log #4
+2021/03/20-21:48:41.678 22fdd Reusing old log /home/iamchriswick/.config/google-chrome/Default/IndexedDB/https_borsen.dagbladet.no_0.indexeddb.leveldb/000004.log 
+2021/03/20-21:49:30.289 23013 Level-0 table #8: started
+2021/03/20-21:49:30.289 23013 Level-0 table #8: 0 bytes OK
+2021/03/20-21:49:30.296 23013 Delete type=0 #4
+2021/03/20-21:49:30.296 23013 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/20-21:49:30.296 23013 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

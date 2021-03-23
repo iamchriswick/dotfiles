@@ -1,0 +1,13 @@
+/* Show profile images */
+.profile-picture img, .profile-picture a, img.lazy-load, .profile-image, #topcard img, .profile-image img, .result > a.result-image, .result > a img.entity-img, .browse-map-photo, .endorsement-picture img, .connections-container img, .recommendation > div > div.entityblock.person > img {	
+	visibility: visible !important;
+}
+
+/* Show name on /in pages */
+.full-name {
+	visibility: visible !important;
+}
+/* Show identity in 'in common' section by hiding section */
+#in-common {
+	visibility: visible !important;
+}

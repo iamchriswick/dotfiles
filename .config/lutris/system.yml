@@ -1,0 +1,5 @@
+system:
+  game_path: /mnt/Files/Games
+  mangohud: gl64
+  prime: false
+  reset_desktop: true

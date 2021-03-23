@@ -1,0 +1,5 @@
+[credential "https://github.com"]
+	helper = !gh auth git-credential
+[user]
+	email = iamchriswick@users.noreply.github.com
+	name = Christian Wick

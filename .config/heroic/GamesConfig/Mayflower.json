@@ -1,0 +1,17 @@
+{
+  "Mayflower": {
+    "audioFix": true,
+    "autoInstallDxvk": false,
+    "offlineMode": false,
+    "otherOptions": "",
+    "savesPath": "",
+    "showFps": false,
+    "showMangohud": true,
+    "useGameMode": true,
+    "winePrefix": "/home/iamchriswick/.local/share/lutris/runners/wine/lutris-6.0-x86_64",
+    "wineVersion": {
+      "bin": "",
+      "name": ""
+    }
+  }
+}

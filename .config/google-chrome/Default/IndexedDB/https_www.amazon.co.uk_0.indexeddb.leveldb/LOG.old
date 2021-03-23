@@ -1,0 +1,8 @@
+2021/03/22-22:39:36.686 19d37 Reusing MANIFEST /home/iamchriswick/.config/google-chrome/Default/IndexedDB/https_www.amazon.co.uk_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/22-22:39:36.686 19d37 Recovering log #4
+2021/03/22-22:39:36.686 19d37 Reusing old log /home/iamchriswick/.config/google-chrome/Default/IndexedDB/https_www.amazon.co.uk_0.indexeddb.leveldb/000004.log 
+2021/03/22-22:40:14.502 19e5a Level-0 table #8: started
+2021/03/22-22:40:14.502 19e5a Level-0 table #8: 0 bytes OK
+2021/03/22-22:40:14.510 19e5a Delete type=0 #4
+2021/03/22-22:40:14.510 19e5a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/22-22:40:14.510 19e5a Manual compaction at level-1 from (begin) .. (end); will stop at (end)

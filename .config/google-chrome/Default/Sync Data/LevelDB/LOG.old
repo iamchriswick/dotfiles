@@ -1,0 +1,6 @@
+2021/03/22-23:12:45.477 105f Reusing MANIFEST /home/iamchriswick/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/03/22-23:12:45.479 105f Recovering log #58
+2021/03/22-23:12:45.480 105f Reusing old log /home/iamchriswick/.config/google-chrome/Default/Sync Data/LevelDB/000058.log 
+2021/03/22-23:22:08.570 1082 Level-0 table #62: started
+2021/03/22-23:22:08.572 1082 Level-0 table #62: 100913 bytes OK
+2021/03/22-23:22:08.574 1082 Delete type=0 #58

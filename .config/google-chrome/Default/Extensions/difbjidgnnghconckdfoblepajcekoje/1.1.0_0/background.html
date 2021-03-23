@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Homerun</title>
+        <script src="background.js"></script>
+    </head>
+    <body>
+        <div id="hr-homerun-container">
+            <div id="hr-arrow-toggle">
+                <i class="hr-arrow hr-arrow--right"></i>
+            </div>
+
+            <p id="hr-disallowed-reason"></p>
+
+            <figure id="hr-person-photo"></figure>
+
+            <form id="hr-person-form" class="hr-form">
+                <div class="hr-form__group">
+                    <input class="hr-form__field" id="hr_candidate_first_name" type="text" name="first_name" placeholder="First name *" />
+                    <input class="hr-form__field" id="hr_candidate_last_name" type="text" name="last_name" placeholder="Last name *" />
+                    <input class="hr-form__field" id="hr_candidate_email" type="email" name="email" placeholder="E-mail address" />
+                    <input class="hr-form__field" id="hr_candidate_phone_number" type="text" name="phone_number" placeholder="Phone number" />
+                    <input class="hr-form__field" id="hr_candidate_website" type="text" name="website" placeholder="Website" />
+                </div>
+
+                <div class="hr-form__group" id="hr-source-to">
+                    <div class="hr-form__select-holder">
+                        <select class="hr-form__field hr-form__select" id="hr-company" name="company"></select>
+                        <i class="hr-arrow hr-arrow--down"></i>
+                    </div>
+                    <div class="hr-form__select-holder">
+                        <select class="hr-form__field hr-form__select" id="hr-vacancy" name="vacancy">
+                            <option value="" disabled selected>Select job</option>
+                        </select>
+                        <i class="hr-arrow hr-arrow--down"></i>
+                    </div>
+                    <textarea class="hr-form__field hr-form__field--large" name="note" placeholder="Add a note..."></textarea>
+                </div>
+
+                <button class="hr-form__button submit-button" type="submit">
+                    <i class="filler"></i>
+                    Add to Homerun
+                </button>
+
+                <a class="hr-form__button view-button" href="" target="_blank">View in Homerun</a>
+
+                <button class="hr-form__button connect-button" id="hr-connect-homerun">Connect with Homerun</button>
+            </form>
+
+            <form id="hr-login-form" class="hr-form">
+                <h3>Log in to your account</h3>
+
+                <div class="hr-form__group">
+                    <input class="hr-form__field" type="email" name="email" placeholder="E-mail address" />
+                    <input class="hr-form__field" type="password" name="password" placeholder="Password" />
+                </div>
+
+                <button class="hr-form__button" type="submit">Log in</button>
+            </form>
+
+            <div id="hr-errors">
+                <p><em></em><span></span></p>
+            </div>
+
+            <figure class="hr-homerun-logo"></figure>
+
+            <a id="hr-sign-out" href="javascript:void(0)">Log out</a>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,63 @@
+2021/03/23-13:04:43.243 d5 Reusing MANIFEST /home/iamchriswick/.config/google-chrome/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2021/03/23-13:04:43.244 d5 Recovering log #58
+2021/03/23-13:04:43.244 d5 Reusing old log /home/iamchriswick/.config/google-chrome/Profile 1/Local Storage/leveldb/000058.log 
+2021/03/23-13:12:48.653 d9 Level-0 table #62: started
+2021/03/23-13:12:48.660 d9 Level-0 table #62: 10720 bytes OK
+2021/03/23-13:12:48.663 d9 Delete type=0 #58
+2021/03/23-13:12:48.663 d9 Compacting 4@0 + 1@1 files
+2021/03/23-13:12:48.665 d9 Generated table #63@0: 66 keys, 7660 bytes
+2021/03/23-13:12:48.665 d9 Compacted 4@0 + 1@1 files => 7660 bytes
+2021/03/23-13:12:48.667 d9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/23-13:12:48.667 d9 Delete type=2 #53
+2021/03/23-13:12:48.667 d9 Delete type=2 #55
+2021/03/23-13:12:48.667 d9 Delete type=2 #57
+2021/03/23-13:12:48.667 d9 Delete type=2 #59
+2021/03/23-13:12:48.667 d9 Delete type=2 #62
+2021/03/23-13:17:52.506 d9 Level-0 table #65: started
+2021/03/23-13:17:52.513 d9 Level-0 table #65: 14631 bytes OK
+2021/03/23-13:17:52.515 d9 Delete type=0 #61
+2021/03/23-13:27:03.444 d9 Level-0 table #67: started
+2021/03/23-13:27:03.451 d9 Level-0 table #67: 13034 bytes OK
+2021/03/23-13:27:03.453 d9 Delete type=0 #64
+2021/03/23-13:32:56.368 e8 Level-0 table #69: started
+2021/03/23-13:32:56.369 e8 Level-0 table #69: 12459 bytes OK
+2021/03/23-13:32:56.372 e8 Delete type=0 #66
+2021/03/23-13:34:59.140 d9 Level-0 table #71: started
+2021/03/23-13:34:59.147 d9 Level-0 table #71: 11627 bytes OK
+2021/03/23-13:34:59.150 d9 Delete type=0 #68
+2021/03/23-13:34:59.150 d9 Compacting 4@0 + 1@1 files
+2021/03/23-13:34:59.152 d9 Generated table #72@0: 85 keys, 11527 bytes
+2021/03/23-13:34:59.152 d9 Compacted 4@0 + 1@1 files => 11527 bytes
+2021/03/23-13:34:59.154 d9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/23-13:34:59.154 d9 Delete type=2 #63
+2021/03/23-13:34:59.154 d9 Delete type=2 #65
+2021/03/23-13:34:59.154 d9 Delete type=2 #67
+2021/03/23-13:34:59.154 d9 Delete type=2 #69
+2021/03/23-13:34:59.154 d9 Delete type=2 #71
+2021/03/23-13:40:11.582 ed Level-0 table #74: started
+2021/03/23-13:40:11.588 ed Level-0 table #74: 13070 bytes OK
+2021/03/23-13:40:11.591 ed Delete type=0 #70
+2021/03/23-13:43:20.881 ed Level-0 table #76: started
+2021/03/23-13:43:20.887 ed Level-0 table #76: 10181 bytes OK
+2021/03/23-13:43:20.890 ed Delete type=0 #73
+2021/03/23-13:46:27.010 f1 Level-0 table #78: started
+2021/03/23-13:46:27.017 f1 Level-0 table #78: 11371 bytes OK
+2021/03/23-13:46:27.019 f1 Delete type=0 #75
+2021/03/23-13:58:04.169 f6 Level-0 table #80: started
+2021/03/23-13:58:04.176 f6 Level-0 table #80: 11329 bytes OK
+2021/03/23-13:58:04.178 f6 Delete type=0 #77
+2021/03/23-13:58:04.178 f6 Compacting 4@0 + 1@1 files
+2021/03/23-13:58:04.180 f6 Generated table #81@0: 87 keys, 12935 bytes
+2021/03/23-13:58:04.180 f6 Compacted 4@0 + 1@1 files => 12935 bytes
+2021/03/23-13:58:04.182 f6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/23-13:58:04.182 f6 Delete type=2 #72
+2021/03/23-13:58:04.182 f6 Delete type=2 #74
+2021/03/23-13:58:04.182 f6 Delete type=2 #76
+2021/03/23-13:58:04.182 f6 Delete type=2 #78
+2021/03/23-13:58:04.182 f6 Delete type=2 #80
+2021/03/23-14:01:30.129 f6 Level-0 table #83: started
+2021/03/23-14:01:30.136 f6 Level-0 table #83: 13335 bytes OK
+2021/03/23-14:01:30.138 f6 Delete type=0 #79
+2021/03/23-14:10:41.466 f6 Level-0 table #85: started
+2021/03/23-14:10:41.473 f6 Level-0 table #85: 11123 bytes OK
+2021/03/23-14:10:41.475 f6 Delete type=0 #82

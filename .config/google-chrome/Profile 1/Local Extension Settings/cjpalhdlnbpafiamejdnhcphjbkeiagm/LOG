@@ -1,0 +1,29 @@
+2021/03/23-13:04:43.432 c71e Reusing MANIFEST /home/iamchriswick/.config/google-chrome/Profile 1/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2021/03/23-13:04:43.432 c71e Recovering log #15
+2021/03/23-13:04:43.432 c71e Reusing old log /home/iamchriswick/.config/google-chrome/Profile 1/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000015.log 
+2021/03/23-13:14:46.623 c8bc Level-0 table #23: started
+2021/03/23-13:14:46.642 c8bc Level-0 table #23: 1847653 bytes OK
+2021/03/23-13:14:46.645 c8bc Delete type=0 #15
+2021/03/23-13:16:05.868 d4c7 Level-0 table #25: started
+2021/03/23-13:16:05.886 d4c7 Level-0 table #25: 2848097 bytes OK
+2021/03/23-13:16:05.888 d4c7 Delete type=0 #22
+2021/03/23-13:18:07.624 d4c7 Level-0 table #27: started
+2021/03/23-13:18:07.641 d4c7 Level-0 table #27: 1607886 bytes OK
+2021/03/23-13:18:07.643 d4c7 Delete type=0 #24
+2021/03/23-13:27:09.213 dd7d Level-0 table #29: started
+2021/03/23-13:27:09.235 dd7d Level-0 table #29: 2497137 bytes OK
+2021/03/23-13:27:09.238 dd7d Delete type=0 #26
+2021/03/23-13:27:09.238 dd7d Compacting 4@0 + 4@1 files
+2021/03/23-13:27:09.264 dd7d Generated table #30@0: 17 keys, 2715744 bytes
+2021/03/23-13:27:09.289 dd7d Generated table #31@0: 6 keys, 2141154 bytes
+2021/03/23-13:27:09.304 dd7d Generated table #32@0: 12 keys, 667140 bytes
+2021/03/23-13:27:09.304 dd7d Compacted 4@0 + 4@1 files => 5524038 bytes
+2021/03/23-13:27:09.306 dd7d compacted to: files[ 0 3 1 0 0 0 0 ]
+2021/03/23-13:27:09.306 dd7d Delete type=2 #17
+2021/03/23-13:27:09.306 dd7d Delete type=2 #18
+2021/03/23-13:27:09.306 dd7d Delete type=2 #19
+2021/03/23-13:27:09.306 dd7d Delete type=2 #20
+2021/03/23-13:27:09.306 dd7d Delete type=2 #23
+2021/03/23-13:27:09.306 dd7d Delete type=2 #25
+2021/03/23-13:27:09.306 dd7d Delete type=2 #27
+2021/03/23-13:27:09.306 dd7d Delete type=2 #29

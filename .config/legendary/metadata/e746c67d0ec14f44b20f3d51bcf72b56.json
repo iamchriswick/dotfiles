@@ -1,0 +1,85 @@
+{
+  "app_name": "e746c67d0ec14f44b20f3d51bcf72b56",
+  "app_title": "Twinmotion Trial 2020.2",
+  "app_version": "RELEASE_WINDOWS_Trial_2020.2.15176676",
+  "asset_info": {
+    "app_name": "e746c67d0ec14f44b20f3d51bcf72b56",
+    "asset_id": "e746c67d0ec14f44b20f3d51bcf72b56",
+    "build_version": "RELEASE_WINDOWS_Trial_2020.2.15176676",
+    "catalog_item_id": "60da1f4fc5c6425e8d528919af40459a",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "poodle"
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-06-30T17:57:52.697Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Twinmotion2020.2Trial"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceID": {
+        "type": "STRING",
+        "value": "Twinmotion"
+      },
+      "SupportedPlatforms": {
+        "type": "STRING",
+        "value": "Windows, Mac"
+      },
+      "com.epicgames.app.developerName": {
+        "type": "STRING",
+        "value": "Epic Games"
+      }
+    },
+    "description": "Twinmotion Trial 2020.2",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "TwinmotionTrial2020.2",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "twin"
+    ],
+    "id": "60da1f4fc5c6425e8d528919af40459a",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2020-07-22T17:00:58.526Z",
+    "namespace": "poodle",
+    "releaseInfo": [
+      {
+        "appId": "e746c67d0ec14f44b20f3d51bcf72b56",
+        "compatibleApps": [],
+        "dateAdded": "2020-07-14T00:00:00.000Z",
+        "id": "faef75024f1242f383fd1d561ba65abf",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Twinmotion Trial 2020.2",
+    "unsearchable": false
+  }
+}

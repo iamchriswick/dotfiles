@@ -1,0 +1,5 @@
+2021/03/23-13:47:00.161 f936 Reusing MANIFEST /home/iamchriswick/.config/heroic/IndexedDB/https_www.unrealengine.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/23-13:47:34.449 f936 Level-0 table #5: started
+2021/03/23-13:47:34.455 f936 Level-0 table #5: 3157 bytes OK
+2021/03/23-13:47:34.457 f936 Delete type=0 #3
+2021/03/23-13:47:34.457 f936 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2021/03/22-09:32:42.736 b06a Reusing MANIFEST /home/iamchriswick/.config/google-chrome/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/22-09:33:21.255 b2a9 Level-0 table #5: started
+2021/03/22-09:33:21.256 b2a9 Level-0 table #5: 1609 bytes OK
+2021/03/22-09:33:21.258 b2a9 Delete type=0 #3
+2021/03/22-09:33:21.258 b2a9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

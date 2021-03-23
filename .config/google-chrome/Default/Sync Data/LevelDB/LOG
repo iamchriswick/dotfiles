@@ -1,0 +1,36 @@
+2021/03/22-23:52:10.235 121d Reusing MANIFEST /home/iamchriswick/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/03/22-23:52:10.237 121d Recovering log #61
+2021/03/22-23:52:10.237 121d Reusing old log /home/iamchriswick/.config/google-chrome/Default/Sync Data/LevelDB/000061.log 
+2021/03/23-00:02:35.779 1b72 Level-0 table #65: started
+2021/03/23-00:02:35.786 1b72 Level-0 table #65: 106525 bytes OK
+2021/03/23-00:02:35.788 1b72 Delete type=0 #61
+2021/03/23-00:02:35.789 1b72 Compacting 4@0 + 1@1 files
+2021/03/23-00:02:35.792 1b72 Generated table #66@0: 574 keys, 54542 bytes
+2021/03/23-00:02:35.792 1b72 Compacted 4@0 + 1@1 files => 54542 bytes
+2021/03/23-00:02:35.793 1b72 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/23-00:02:35.793 1b72 Delete type=2 #54
+2021/03/23-00:02:35.793 1b72 Delete type=2 #56
+2021/03/23-00:02:35.793 1b72 Delete type=2 #59
+2021/03/23-00:02:35.793 1b72 Delete type=2 #62
+2021/03/23-00:02:35.793 1b72 Delete type=2 #65
+2021/03/23-03:51:48.628 5e5c Level-0 table #68: started
+2021/03/23-03:51:48.635 5e5c Level-0 table #68: 115529 bytes OK
+2021/03/23-03:51:48.639 5e5c Delete type=0 #64
+2021/03/23-04:27:50.697 65d2 Level-0 table #70: started
+2021/03/23-04:27:50.704 65d2 Level-0 table #70: 143797 bytes OK
+2021/03/23-04:27:50.707 65d2 Delete type=0 #67
+2021/03/23-12:10:02.698 9ab3 Level-0 table #72: started
+2021/03/23-12:10:02.700 9ab3 Level-0 table #72: 133745 bytes OK
+2021/03/23-12:10:02.702 9ab3 Delete type=0 #69
+2021/03/23-14:18:05.795 15269 Level-0 table #74: started
+2021/03/23-14:18:05.797 15269 Level-0 table #74: 97688 bytes OK
+2021/03/23-14:18:05.800 15269 Delete type=0 #71
+2021/03/23-14:18:05.800 15269 Compacting 4@0 + 1@1 files
+2021/03/23-14:18:05.804 15269 Generated table #75@0: 588 keys, 57557 bytes
+2021/03/23-14:18:05.804 15269 Compacted 4@0 + 1@1 files => 57557 bytes
+2021/03/23-14:18:05.806 15269 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/23-14:18:05.806 15269 Delete type=2 #66
+2021/03/23-14:18:05.806 15269 Delete type=2 #68
+2021/03/23-14:18:05.806 15269 Delete type=2 #70
+2021/03/23-14:18:05.806 15269 Delete type=2 #72
+2021/03/23-14:18:05.806 15269 Delete type=2 #74

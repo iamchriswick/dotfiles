@@ -1,0 +1,22 @@
+{
+  "defaultSettings": {
+    "audioFix": true,
+    "customWinePaths": [],
+    "darkTrayIcon": false,
+    "defaultInstallPath": "'/mnt/Files/Games/Heroic'",
+    "egsLinkedPath": "",
+    "exitToTray": true,
+    "language": "en",
+    "maxWorkers": 24,
+    "offlineMode": false,
+    "otherOptions": "",
+    "showFps": false,
+    "showMangohud": true,
+    "useGameMode": true,
+    "winePrefix": "/home/iamchriswick/.wine",
+    "wineVersion": {
+      "bin": "",
+      "name": ""
+    }
+  }
+}

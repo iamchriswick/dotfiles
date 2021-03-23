@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "Binance Chain, Binance Smart Chain ve Ethereum için Kripto Cüzdanı"
+   },
+   "appName": {
+      "message": "Binance Chain Cüzdanı"
+   },
+   "appStoreLongDesc": {
+      "message": "Binance Chain, Binance Smart Chain ve Ethereum için Kripto Cüzdanı \n\nBinance Chain tarayıcı uzantısı ile Binance Chain, Binance Smart Chain ve Ethereum üzerinden fonlarınızı gönderip alabilir ve her iki Binance blok zinciri arasında çapraz zincir transferleri yapabilirsiniz.\n\nUzantı, uzantının depolama alanında güvenli bir şekilde saklanan ve parolanızla şifrelenen özel anahtarlarınıza erişim sağlamadan kimlik doğrulaması ve işlem imzalaması için diğer Binance Chain ürünleriyle de entegre olabilir.\n\nBu entegrasyonu mümkün kılmak için uzantının, sekmelerinizde açtığınız web uygulamaları ile uzantının kendisi arasındaki iletişimi yönetecek bir kod eklemesi gerekir. Bu nedenle uzantı, herhangi bir web sayfasına erişim izni gerektirir."
+   }
+}

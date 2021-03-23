@@ -1,0 +1,5 @@
+2021/03/22-18:02:00.373 16c0d Reusing MANIFEST /home/iamchriswick/.config/google-chrome/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/22-18:04:45.650 1711d Level-0 table #5: started
+2021/03/22-18:04:45.651 1711d Level-0 table #5: 1268 bytes OK
+2021/03/22-18:04:45.653 1711d Delete type=0 #3
+2021/03/22-18:04:45.653 1711d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

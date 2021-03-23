@@ -1,0 +1,609 @@
+{
+  "app_name": "Mayflower",
+  "app_title": "SnowRunner",
+  "app_version": "12.2",
+  "asset_info": {
+    "app_name": "Mayflower",
+    "asset_id": "Mayflower",
+    "build_version": "12.2",
+    "catalog_item_id": "022785974d3244dc805ea83e1c076158",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "2744acda6a2e493e9894b389b6564df7"
+  },
+  "base_urls": [
+    "https://fastly-download.epicgames.com/Builds/Org/o-wt4zxeetmq6jem7qp4pkssr46aenj5/1c6937ce9501483d9c6ed13386ff1505/default",
+    "https://epicgames-download1.akamaized.net/Builds/Org/o-wt4zxeetmq6jem7qp4pkssr46aenj5/1c6937ce9501483d9c6ed13386ff1505/default",
+    "https://download.epicgames.com/Builds/Org/o-wt4zxeetmq6jem7qp4pkssr46aenj5/1c6937ce9501483d9c6ed13386ff1505/default",
+    "https://download2.epicgames.com/Builds/Org/o-wt4zxeetmq6jem7qp4pkssr46aenj5/1c6937ce9501483d9c6ed13386ff1505/default",
+    "https://download3.epicgames.com/Builds/Org/o-wt4zxeetmq6jem7qp4pkssr46aenj5/1c6937ce9501483d9c6ed13386ff1505/default",
+    "https://download4.epicgames.com/Builds/Org/o-wt4zxeetmq6jem7qp4pkssr46aenj5/1c6937ce9501483d9c6ed13386ff1505/default"
+  ],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-06-13T17:18:24.273Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/My Games/SnowRunner/base/storage/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SnowRunner"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "300"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "2744acda6a2e493e9894b389b6564df7"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "true"
+      }
+    },
+    "description": "SnowRunner",
+    "developer": "Focus Home",
+    "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-01-09T22:28:09.491Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC0 - Sabertooth Livery Audience",
+        "developer": "Focus Home",
+        "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+        "endOfSupport": false,
+        "entitlementName": "3dd8c354bc7246d4b490c9597cebd689",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3dd8c354bc7246d4b490c9597cebd689",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-11-16T14:00:55.113Z",
+        "mainGameItem": {
+          "id": "022785974d3244dc805ea83e1c076158",
+          "namespace": "2744acda6a2e493e9894b389b6564df7",
+          "unsearchable": false
+        },
+        "namespace": "2744acda6a2e493e9894b389b6564df7",
+        "status": "ACTIVE",
+        "title": "DLC0 - Sabertooth Livery Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-01-09T22:28:15.363Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Season 3- Locate and Deliver Audience",
+        "developer": "Focus Home",
+        "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+        "endOfSupport": false,
+        "entitlementName": "d37d8b5c4b0e4e5382cb128201f15784",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d37d8b5c4b0e4e5382cb128201f15784",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "7d15fd513905d34d1b2251eec84a8522",
+            "size": 413192,
+            "type": "DieselStoreFrontWide",
+            "uploadedDate": "2021-02-10T19:49:03.313Z",
+            "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/EGS_Season3LocateDeliver_SaberInteractive_DLC_S1-2560x1440-7d15fd513905d34d1b2251eec84a8522.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "89fceee2a1eada46792721a29d431f68",
+            "size": 631989,
+            "type": "DieselStoreFrontTall",
+            "uploadedDate": "2021-02-10T19:49:12.443Z",
+            "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/EGS_Season3LocateDeliver_SaberInteractive_DLC_S2-1200x1600-89fceee2a1eada46792721a29d431f68.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-02-10T23:03:39.144Z",
+        "mainGameItem": {
+          "id": "022785974d3244dc805ea83e1c076158",
+          "namespace": "2744acda6a2e493e9894b389b6564df7",
+          "unsearchable": false
+        },
+        "namespace": "2744acda6a2e493e9894b389b6564df7",
+        "status": "ACTIVE",
+        "title": "Season 3- Locate and Deliver Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-01-09T22:28:20.317Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC7 - PHASE 2 Explore and Expand Audience",
+        "developer": "Focus Home",
+        "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+        "endOfSupport": false,
+        "entitlementName": "3fadcc1ef7d44fdb8b24ad4a404fe80a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3fadcc1ef7d44fdb8b24ad4a404fe80a",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-11-16T14:00:55.113Z",
+        "mainGameItem": {
+          "id": "022785974d3244dc805ea83e1c076158",
+          "namespace": "2744acda6a2e493e9894b389b6564df7",
+          "unsearchable": false
+        },
+        "namespace": "2744acda6a2e493e9894b389b6564df7",
+        "status": "ACTIVE",
+        "title": "DLC7 - PHASE 2 Explore and Expand Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-01-09T22:34:54.001Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "MayflowerSeasonPassAudience",
+        "developer": "Focus Home",
+        "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+        "endOfSupport": false,
+        "entitlementName": "4db4874c9e124346a7294e5be6b684b8",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "EVERYONE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4db4874c9e124346a7294e5be6b684b8",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "c55c3b08996eb8487d4a6956c84d6d66",
+            "size": 86271,
+            "type": "ESRB",
+            "uploadedDate": "2020-02-14T19:03:52.701Z",
+            "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/ESRB_NoDescriptors_UsersInteract-842x485-c55c3b08996eb8487d4a6956c84d6d66.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2021-02-10T23:03:39.144Z",
+        "mainGameItem": {
+          "id": "022785974d3244dc805ea83e1c076158",
+          "namespace": "2744acda6a2e493e9894b389b6564df7",
+          "unsearchable": false
+        },
+        "namespace": "2744acda6a2e493e9894b389b6564df7",
+        "status": "ACTIVE",
+        "title": "MayflowerSeasonPassAudience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-03-19T17:50:01.294Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC5 - Chevorlet Kodiak C70 Audience",
+        "developer": "Focus Home",
+        "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+        "endOfSupport": false,
+        "entitlementName": "50b8164c7c7841cc9d651cf8e1316b0a",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "EVERYONE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "50b8164c7c7841cc9d651cf8e1316b0a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a4de2492c5e27c0262705a42c34204fd",
+            "size": 84586,
+            "type": "ESRB",
+            "uploadedDate": "2020-04-21T22:44:57.916Z",
+            "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/ESRB_SR-842x485-a4de2492c5e27c0262705a42c34204fd.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2020-11-16T14:00:55.113Z",
+        "mainGameItem": {
+          "id": "022785974d3244dc805ea83e1c076158",
+          "namespace": "2744acda6a2e493e9894b389b6564df7",
+          "unsearchable": false
+        },
+        "namespace": "2744acda6a2e493e9894b389b6564df7",
+        "status": "ACTIVE",
+        "title": "True Colors Vinyl Wrap Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-03-19T17:49:52.303Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC3 - White Western Star Audience",
+        "developer": "Focus Home",
+        "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+        "endOfSupport": false,
+        "entitlementName": "844366a88d8f4a08905d7f89bd99be46",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "EVERYONE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "844366a88d8f4a08905d7f89bd99be46",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a4de2492c5e27c0262705a42c34204fd",
+            "size": 84586,
+            "type": "ESRB",
+            "uploadedDate": "2020-04-21T22:28:01.130Z",
+            "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/ESRB_SR-842x485-a4de2492c5e27c0262705a42c34204fd.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2020-11-16T14:00:55.113Z",
+        "mainGameItem": {
+          "id": "022785974d3244dc805ea83e1c076158",
+          "namespace": "2744acda6a2e493e9894b389b6564df7",
+          "unsearchable": false
+        },
+        "namespace": "2744acda6a2e493e9894b389b6564df7",
+        "status": "ACTIVE",
+        "title": "Loaded Dice Vinyl Wrap Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-03-19T17:49:46.965Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC2 - KHAN 39 Marshall Audience",
+        "developer": "Focus Home",
+        "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+        "endOfSupport": false,
+        "entitlementName": "ba715352339e4369b24bbdbfec8c9d8d",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "EVERYONE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ba715352339e4369b24bbdbfec8c9d8d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a4de2492c5e27c0262705a42c34204fd",
+            "size": 84586,
+            "type": "ESRB",
+            "uploadedDate": "2020-04-21T22:18:15.605Z",
+            "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/ESRB_SR-842x485-a4de2492c5e27c0262705a42c34204fd.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2020-11-16T14:00:55.113Z",
+        "mainGameItem": {
+          "id": "022785974d3244dc805ea83e1c076158",
+          "namespace": "2744acda6a2e493e9894b389b6564df7",
+          "unsearchable": false
+        },
+        "namespace": "2744acda6a2e493e9894b389b6564df7",
+        "status": "ACTIVE",
+        "title": "High Roller Pack Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-03-19T17:49:57.115Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC4 - Chevrolet CK 1500 Audience",
+        "developer": "Focus Home",
+        "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+        "endOfSupport": false,
+        "entitlementName": "c1cf0a3551f3483f85e703f6308b966a",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "EVERYONE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c1cf0a3551f3483f85e703f6308b966a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a4de2492c5e27c0262705a42c34204fd",
+            "size": 84586,
+            "type": "ESRB",
+            "uploadedDate": "2020-04-21T22:36:21.509Z",
+            "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/ESRB_SR-842x485-a4de2492c5e27c0262705a42c34204fd.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2020-11-16T14:00:55.113Z",
+        "mainGameItem": {
+          "id": "022785974d3244dc805ea83e1c076158",
+          "namespace": "2744acda6a2e493e9894b389b6564df7",
+          "unsearchable": false
+        },
+        "namespace": "2744acda6a2e493e9894b389b6564df7",
+        "status": "ACTIVE",
+        "title": "Scorched Vinyl Wrap Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-07-20T21:03:44.081Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC10 - WS49X Audience",
+        "developer": "Focus Home",
+        "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+        "endOfSupport": false,
+        "entitlementName": "365119f817ef43478807324ceb476acd",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "365119f817ef43478807324ceb476acd",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-11-16T14:00:55.113Z",
+        "mainGameItem": {
+          "id": "022785974d3244dc805ea83e1c076158",
+          "namespace": "2744acda6a2e493e9894b389b6564df7",
+          "unsearchable": false
+        },
+        "namespace": "2744acda6a2e493e9894b389b6564df7",
+        "status": "ACTIVE",
+        "title": "DLC10 - WS49X Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-07-20T21:41:15.751Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC11 - Chevrolet Apache Audience",
+        "developer": "Focus Home",
+        "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+        "endOfSupport": false,
+        "entitlementName": "f56b4cde749d4377bf1400b01b9bbfe4",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "EVERYONE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f56b4cde749d4377bf1400b01b9bbfe4",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "c55c3b08996eb8487d4a6956c84d6d66",
+            "size": 86271,
+            "type": "ESRB",
+            "uploadedDate": "2020-09-22T12:53:52.810Z",
+            "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/ESRB_NoDescriptors_UsersInteract-842x485-c55c3b08996eb8487d4a6956c84d6d66-842x485-c55c3b08996eb8487d4a6956c84d6d66.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2020-11-16T14:00:55.113Z",
+        "mainGameItem": {
+          "id": "022785974d3244dc805ea83e1c076158",
+          "namespace": "2744acda6a2e493e9894b389b6564df7",
+          "unsearchable": false
+        },
+        "namespace": "2744acda6a2e493e9894b389b6564df7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC11 - Chevrolet Apache Audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "022785974d3244dc805ea83e1c076158",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "022785974d3244dc805ea83e1c076158",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1148,
+        "md5": "5a5adeae2140a3f0b5586750f70bf8e2",
+        "size": 349717,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-02-14T17:13:43.227Z",
+        "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/Diesel_productv2_snowrunner_home_SnowRunner_EpicGames_PortraitImage_860x1148-860x1148-bdf591a23e5a348671dc2a77465d0ba6c5871d68-860x1148-5a5adeae2140a3f0b5586750f70bf8e2.jpg",
+        "width": 860
+      },
+      {
+        "height": 1440,
+        "md5": "e668930f14eb95ee04c3b02f938170bf",
+        "size": 4775783,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-04-21T17:17:37.819Z",
+        "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/SNOWRUNNER-Launcher-EGS-2560x1440-2560x1440-e668930f14eb95ee04c3b02f938170bf.jpg",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2020-11-16T13:59:35.762Z",
+    "namespace": "2744acda6a2e493e9894b389b6564df7",
+    "releaseInfo": [
+      {
+        "appId": "Mayflower",
+        "dateAdded": "2019-06-28T00:00:00.000Z",
+        "id": "054eada7f73e4055a568f9ee3eb5c99d",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "SnowRunner",
+    "unsearchable": false
+  }
+}

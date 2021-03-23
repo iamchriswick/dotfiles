@@ -1,0 +1,6 @@
+2021/03/23-13:04:43.241 c6c2 Reusing MANIFEST /home/iamchriswick/.config/google-chrome/Profile 1/Sync Data/LevelDB/MANIFEST-000001
+2021/03/23-13:04:43.241 c6c2 Recovering log #10
+2021/03/23-13:04:43.243 c6c2 Reusing old log /home/iamchriswick/.config/google-chrome/Profile 1/Sync Data/LevelDB/000010.log 
+2021/03/23-13:21:30.980 d9fd Level-0 table #14: started
+2021/03/23-13:21:30.987 d9fd Level-0 table #14: 96164 bytes OK
+2021/03/23-13:21:30.990 d9fd Delete type=0 #10

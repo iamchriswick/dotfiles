@@ -1,0 +1,106 @@
+{
+  "app_name": "e2373ce0693348d3a5b6bf2901fc736c",
+  "app_title": "SnowRunner - Public test version",
+  "app_version": "12.10",
+  "asset_info": {
+    "app_name": "e2373ce0693348d3a5b6bf2901fc736c",
+    "asset_id": "e2373ce0693348d3a5b6bf2901fc736c",
+    "build_version": "12.10",
+    "catalog_item_id": "623a691f22b2489bbbeb12d7f941291a",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "2744acda6a2e493e9894b389b6564df7"
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-05-06T14:21:22.701Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SnowRunnerPublicTest"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "2744acda6a2e493e9894b389b6564df7"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "SnowRunner - Public test version",
+    "developer": "Focus Home",
+    "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "endOfSupport": false,
+    "entitlementName": "623a691f22b2489bbbeb12d7f941291a",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "623a691f22b2489bbbeb12d7f941291a",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1148,
+        "md5": "a25604172ce2409d97cbd1dafc98cbdc",
+        "size": 472589,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-05-20T16:45:14.114Z",
+        "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/SnowRunner_EpicGames_PortraitImage_860x1148-PTS-860x1148-a25604172ce2409d97cbd1dafc98cbdc.jpg",
+        "width": 860
+      },
+      {
+        "height": 1440,
+        "md5": "5c791385f6a545a24ac131b7e2aa568e",
+        "size": 7317790,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-05-20T16:45:29.992Z",
+        "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/SNOWRUNNER-Launcher-EGS-2560x1440-PTS-2560x1440-5c791385f6a545a24ac131b7e2aa568e.png",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2020-11-16T13:59:35.762Z",
+    "namespace": "2744acda6a2e493e9894b389b6564df7",
+    "releaseInfo": [
+      {
+        "appId": "e2373ce0693348d3a5b6bf2901fc736c",
+        "dateAdded": "2019-06-28T00:00:00.000Z",
+        "id": "afa7144df6814aa0847526e1df149f1a",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "SnowRunner - Public test version",
+    "unsearchable": false
+  }
+}

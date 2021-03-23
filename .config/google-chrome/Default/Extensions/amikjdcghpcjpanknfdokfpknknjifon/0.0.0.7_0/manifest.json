@@ -1,0 +1,29 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon48.png",
+      "default_title": "Unbias Active"
+   },
+   "content_scripts": [ {
+      "css": [ "anonymise.css" ],
+      "js": [ "jquery-2.1.4.min.js", "content.js" ],
+      "matches": [ "*://*.linkedin.com/profile/*", "*://*.linkedin.com/in/*", "*://*.linkedin.com/recruiter/*", "*://*.linkedin.com/vsearch/*" ]
+   } ],
+   "description": "An extension to anonymise LinkedIn profiles and searches to reduce the influence of unconscious bias on recruiters.",
+   "homepage_url": "http://unbias.io",
+   "icons": {
+      "128": "icon128.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjTMBslfCRxab08n7v7Z05gGmKK31QGiSFtcI8kJZ8dN83TYqozkeAkPaOSmDo+VvOLO2tD/69lZdKtLf2V9Mrt7wmlfl+s/gq9ZUuE2+HTsviWdOyDQaOaO3VLzKaJJ0X0vSU9QRL2Vlfby+5Dp9uxHPqmTmlgFnlGGLwgLx47Lpkff0yzsgU+O3Jcn1OGr/LZMN+udI3vL9V2IpMz+7bkfGqNXfqb448mMC3qPFmnqjHOxMXe1sTKA9jquqdwcHByytHYZR1onGT1TB8wnwdgAk/H3+GVOL1/LmDI0I/vyJ6F4JQ6xTF27eAJ/jF/ZpsX5lvHmAInMIpKdMzQB8ewIDAQAB",
+   "manifest_version": 2,
+   "name": "Unbias - LinkedIn anonymiser for recruiters",
+   "permissions": [ "declarativeContent", "storage", "tabs", "*://*.linkedin.com/profile/*", "*://*.linkedin.com/in/*", "*://*.linkedin.com/recruiter/*", "*://*.linkedin.com/vsearch/*" ],
+   "short_name": "Unbias",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.0.7",
+   "web_accessible_resources": [ "deanonymise.css" ]
+}

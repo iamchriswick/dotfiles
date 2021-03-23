@@ -1,0 +1,85 @@
+{
+  "app_name": "06b2bd7550d146c190c1f61e3f1e2fb6",
+  "app_title": "Twinmotion 2020.2",
+  "app_version": "RELEASE_WINDOWS_2020.2.15176676",
+  "asset_info": {
+    "app_name": "06b2bd7550d146c190c1f61e3f1e2fb6",
+    "asset_id": "06b2bd7550d146c190c1f61e3f1e2fb6",
+    "build_version": "RELEASE_WINDOWS_2020.2.15176676",
+    "catalog_item_id": "ba03e8dfc19e45b1a370f07ed399c887",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "poodle"
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-06-30T17:48:50.482Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Twinmotion2020.2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceID": {
+        "type": "STRING",
+        "value": "Twinmotion"
+      },
+      "SupportedPlatforms": {
+        "type": "STRING",
+        "value": "Windows, Mac"
+      },
+      "com.epicgames.app.developerName": {
+        "type": "STRING",
+        "value": "Epic Games"
+      }
+    },
+    "description": "Twinmotion 2020.2 License",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "Twinmotion2020.2",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "twin"
+    ],
+    "id": "ba03e8dfc19e45b1a370f07ed399c887",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2020-11-05T14:33:14.791Z",
+    "namespace": "poodle",
+    "releaseInfo": [
+      {
+        "appId": "06b2bd7550d146c190c1f61e3f1e2fb6",
+        "compatibleApps": [],
+        "dateAdded": "2020-07-14T00:00:00.000Z",
+        "id": "6800c14d4f414aa690c5cd09815122e3",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Twinmotion 2020.2",
+    "unsearchable": false
+  }
+}

@@ -1,0 +1,5 @@
+2021/03/23-13:46:49.041 fa19 Reusing MANIFEST /home/iamchriswick/.config/heroic/IndexedDB/https_www.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/23-13:47:35.926 f936 Level-0 table #5: started
+2021/03/23-13:47:35.928 f936 Level-0 table #5: 25877 bytes OK
+2021/03/23-13:47:35.930 f936 Delete type=0 #3
+2021/03/23-13:47:35.930 f936 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
